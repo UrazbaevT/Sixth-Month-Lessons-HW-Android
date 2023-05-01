@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">5MONTH HW1</string>
+    <string name="go">Go</string>
+    <string name="write_smt">Напишите что-то</string>
+    <string name="go_back">Go back</string>
+    <string name="It_is_first_activity">Это первый активити</string>
+    <string name="It_is_second_activity">Это второй активити</string>
+</resources>

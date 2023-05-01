@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">5MONTH_HW2</string>
+    <string name="select">Select photos</string>
+    <string name="send">send</string>
+    <string name="choose">Choose photo</string>
+    <string name="noted">Noted photo</string>
+</resources>

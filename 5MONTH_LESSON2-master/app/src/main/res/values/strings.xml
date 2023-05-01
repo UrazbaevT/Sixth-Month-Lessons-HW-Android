@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">5MONTH LESSON2</string>
+    <string name="add">Add</string>
+    <string name="print_on_textview">print on TextView</string>
+    <string name="print_something">print smth</string>
+    <string name="text_view">Text View</string>
+</resources>
